@@ -8,3 +8,7 @@
 есть некоторое количество жизней, здоровья и определенный 
 навык (например: волшебство, оружие и т.д.).
 ```
+* Относительный путь приложения:
+```
+UnknownMonster\ConsoleApp1\bin\Release\net6.0\publish\Unknown Monster\UnknownMonster.exe
+```

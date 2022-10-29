@@ -1,0 +1,5 @@
+C:\Users\shuva\Repositories\Home\Individual_task-text-quest-\UnknownMonster\ConsoleApp1\bin\Release\net6.0\publish\Unknown Monster\ConsoleApp1.exe
+C:\Users\shuva\Repositories\Home\Individual_task-text-quest-\UnknownMonster\ConsoleApp1\bin\Release\net6.0\publish\Unknown Monster\ConsoleApp1.dll
+C:\Users\shuva\Repositories\Home\Individual_task-text-quest-\UnknownMonster\ConsoleApp1\bin\Release\net6.0\publish\Unknown Monster\ConsoleApp1.deps.json
+C:\Users\shuva\Repositories\Home\Individual_task-text-quest-\UnknownMonster\ConsoleApp1\bin\Release\net6.0\publish\Unknown Monster\ConsoleApp1.runtimeconfig.json
+C:\Users\shuva\Repositories\Home\Individual_task-text-quest-\UnknownMonster\ConsoleApp1\bin\Release\net6.0\publish\Unknown Monster\ConsoleApp1.pdb
